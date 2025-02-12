@@ -14,6 +14,6 @@ This web application allows users to upload images and get predictions about the
 - Gunicorn (for deployment)
 - Other required libraries: numpy, matplotlib, etc.
 
-You can install the dependencies using pip:
+##### You can install the dependencies using pip:
 
-'''pip install flask tensorflow pillow numpy matplotlib gunicorn'''
+```pip install flask tensorflow pillow numpy matplotlib gunicorn```
